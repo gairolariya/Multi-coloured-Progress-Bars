@@ -1,0 +1,37 @@
+/* css for all the elements */
+.myBar {
+  width: 90%;
+  background-color: #DCDCDC;
+  border-radius: 20px;
+}
+
+/* common css for all the elements */
+.commonProgressBar {
+  width: 1%;
+  height: 30px;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row-reverse;
+}
+
+.green {
+  background-color: #99CC33;
+}
+
+.red {
+  background-color: #CC6633;
+}
+
+
+.white {
+  background-color: #FFFFFF;
+}
+
+
+.blue {
+  background-color: #3399FF;
+}
+
+.yellow {
+  background-color: #FFCC33;
+}
